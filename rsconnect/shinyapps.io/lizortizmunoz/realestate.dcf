@@ -1,0 +1,13 @@
+name: realestate
+title: realestate
+username: lizortizmunoz
+account: lizortizmunoz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15212227
+bundleId: 10786731
+url: https://lizortizmunoz.shinyapps.io/realestate/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/city.csv|data/county.csv|data/metro.csv|data/state.csv|data/zip.csv
