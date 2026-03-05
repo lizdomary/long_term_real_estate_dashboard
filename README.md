@@ -5,6 +5,9 @@
 ## Project Goal 
 - The goal is to make real estate financial analysis more transparent and accessible for investors.
 
+## The primary analysis pipeline can be found in:
+- **app.R**
+
 ## Project Overview
 - This is an interactive R Shiny app for analyzing long-term rental property investments.
 - The tool lets you input property details, financing assumptions, and operating expenses to instantly see how metrics like cash flow, Net Operating Income (NOI), Cash-on-Cash Return, Cap Rate, and Debt Service Coverage Ratio (DSCR) change over time.
